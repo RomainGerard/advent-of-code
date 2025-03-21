@@ -8,6 +8,6 @@ Solutions:
     
     PB 4: 2504      (e1), 1923     (e2)
 
-Si l'on souhaite resoudre un probleme precis il suffit de changer 'pb_nb' et 'star_nb' dans l'instanciation de Problem_Solving en fin de code
+Si l'on souhaite résoudre un problème précis il suffit de changer 'pb_nb' et 'star_nb' dans l'instanciation de la classe 'Problem_Solving' en fin de code
 
-ATTENTION: les fichiers input on vu leurs noms modifies en 'input_pb{i}.txt' ou i est l'indice du pb (de 1 a 4)
+ATTENTION: les fichiers input on vu leurs noms modifiés en 'input_pb{i}.txt', où i est l'indice du pb (de 1 a 4)
